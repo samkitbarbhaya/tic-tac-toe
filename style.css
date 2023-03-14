@@ -1,13 +1,13 @@
 :root {
-    --background-color: #c5c3c6;
-    --font-color: #46494b;
-    --header-background-color: #4c5c68;
+    --background-color: black;
+    --font-color: #b0e4db;
+    --header-background-color: black;
     --header-font-color: #b0e4db;
-    --field-background-color: #ededee;
-    --field-background-color-hover: #d8e4e9;
-    --border-color: #555;
-    --blue-border-color: #2a3a46;
-    --button-background-color: #4c5c68;
+    --field-background-color: black;
+    --field-background-color-hover: #b0e4db;
+    --border-color: #b0e4db;
+    --blue-border-color: #b0e4db;
+    --button-background-color: black;
     --button-hover-background: #3b4b57;
     --button-active-background: #2a3a46;
     --font: 'Varela Round', sans-serif;
@@ -86,6 +86,7 @@ body{
 
 .grid-element:hover{
     background-color: var(--field-background-color-hover);
+    color: black;
 }
 
 .center{
@@ -119,7 +120,7 @@ footer{
 }
 
 .fa-github {
-    color: #333;
+    color: #b0e4db;
     font-size: 24px;
     transition: transform 0.3s ease-in-out;
 }
