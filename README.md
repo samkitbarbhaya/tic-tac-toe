@@ -2,4 +2,4 @@
 
 Tic Tac Toe game created using Javascript, HTMl, CSS
 
-[Live Demo](https://samkitbarbhaya.github.io/etch-a-sketch/)
+[Live Demo](https://samkitbarbhaya.github.io/tic-tac-toe/)
